@@ -2,11 +2,11 @@
 # Please edit this line to "not_sample_anymore" to make the bot run
 is_example_config_or_not: "Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
 ##############################
-bot_token: "Your bot token"
-owner_id: 123456
-owner_username: "OWNER USERNAME"
+bot_token: "947793753:AAGOnIyx_WM8JL5SbwGJC2slXhXhNcHkcs8"
+owner_id: 808267396
+owner_username: "@cyreex"
 database_url: "postgres://username:password@host:5432/database_name"
-message_dump: "CHAT ID"
+message_dump: "-263182730"
 load: []
 no_load: []
 strict_antispam: False
@@ -17,6 +17,6 @@ del_cmds: False
 sw_api: ''
 
 # Permission
-sudo_users: []
+sudo_users: [808267396]
 support_users: []
 whitelist_users: []
